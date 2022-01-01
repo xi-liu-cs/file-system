@@ -1,0 +1,44 @@
+Name: Xi Liu
+net ID: xl3504
+NYU ID(N#): N15017945
+
+Collaborators (who you talked to about the lab, what you talked about):
+None 
+
+Source material that you consulted:
+None 
+
+Other acknowledgments:
+None 
+
+
+Output for exercise 6:
+vagrant@bullseye:~/cs202/labs-21fa-XiLiu13/lab5$ ../lab2/ls -alR mnt
+mnt:
+-rwxr-xr-x 1 vagrant vagrant     34 Dec  1 15:35 file
+
+
+How long did this lab take you?
+About 2 weeks
+
+Anything else you'd like us to know:
+None 
+
+Extra credit exercise(s) (describe what you coded):
+None
+
+Further questions:
+1. How long approximately did it take you to do this lab?
+    about 2 weeks
+
+2. Do you feel like you gained an understanding of how to build a file system in this lab? Please suggest improvements.
+    Through this lab, I gained an understanding of 
+    how direct, indirect, and double indirect blocks are organized
+    in the multi-level index structure.
+
+    An improvement of the lab might be to be more explanatory on the errors 
+    in stressfs.c. 
+    Another improvement might be to add more comments in the 4 phases
+    of the testing in stressfs.c. 
+
+
